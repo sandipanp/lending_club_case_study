@@ -1,5 +1,5 @@
 # Project Name
-> Outline a brief description of your project.
+> Lending club case study using EDA
 
 
 ## Table of Contents
@@ -11,10 +11,20 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+LendingClub is USA’s largest lending marketplace, connecting borrowers with investors since 2007.
+
+Both borrower and investor are registered as a member of Lending club. Borrower applied for loan, then lending club platform perform some risk analysis on the applied loan and pass it to investors with approved ammount ( lenders/Investors ).
+
+Lenders ( Investors ) makes money from the interest they get from money they lend and Lending club makes money from source fees and other fees.
+
+Business Problem : 
+Business suffers loass if borrower get defaulter.
+
+Goal :
+The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
+
+Data Set : 
+loan.csv
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
