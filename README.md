@@ -18,7 +18,7 @@ Both borrower and investor are registered as a member of Lending club. Borrower 
 Lenders ( Investors ) makes money from the interest they get from money they lend and Lending club makes money from source fees and other fees.
 
 Business Problem : 
-Business suffers loass if borrower get defaulter.
+Business suffers loss if borrower get defaulter.
 
 Goal :
 The company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
@@ -29,30 +29,33 @@ loan.csv
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+#### Probability of loan to be more risky ( defaulting ) in following scenarios
+- Lender with middle income group ( 40K to 60K ) with higher loan amount.
+- Lender accross all income group with higher interest rate.
+- Lender with middle income group ( 40K to 60K ) has taken higher loan amount with home ownership as mortgage.
+- Loan with more loan amount for longer duration.
+- Higher loan amount with purpose as small business, cerit card, wedding, debt consolidation and house.
+- Loan with loan grade C with sub grade C1 and C2, grade D with sub grade D2 and D3, grade E with sub grade E1 and E1 having loan amount betweein 10K to 15K.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - 3.9.12
+- numpy - 1.21.5
+- pandas - 1.4.2
+- matplotlib 
+- seaborn - 0.11.2
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by upGrade AI & ML course case study
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @sandipanp - feel free to contact me!
 
 
 <!-- Optional -->
