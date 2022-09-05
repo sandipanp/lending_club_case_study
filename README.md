@@ -1,5 +1,5 @@
 # Project Name
-> Lending club case study using EDA
+> #### Lending club case study using EDA
 
 
 ## Table of Contents
@@ -33,7 +33,7 @@ loan.csv
 - Borrowers with middle income group ( 40K to 60K ) with loan amount above 15K.
 - Borrowers accross all income groups with interest rate more than 12%.
 - Borrowers with middle income group ( 40K to 60K ) has taken higher loan amount with home ownership as mortgage.
-- Loan around 14K for longer duration.
+- Loans for longer duration.
 - Loan amount 11K to 14K with purpose as small business, cerit card, wedding, debt consolidation and house.
 - Loan with loan grade C with sub grade C1 and C2, grade D with sub grade D2 and D3, grade E with sub grade E1 and E1 having loan amount betweein 10K to 15K.
 
